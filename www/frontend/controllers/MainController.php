@@ -23,7 +23,7 @@ class MainController extends \yii\web\Controller
     }
 
     public function actionTest() {
-        
+        return $this->render('view');
     }
 
 }
