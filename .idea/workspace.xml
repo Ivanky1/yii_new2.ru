@@ -53,7 +53,7 @@
       <file leaf-file-name="MainController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/frontend/controllers/MainController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="421" selection-end="421" vertical-scroll-proportion="0.47065338" vertical-offset="0" max-vertical-offset="903">
+            <state line="25" column="8" selection-start="462" selection-end="462" vertical-scroll-proportion="0.47065338" vertical-offset="0" max-vertical-offset="903">
               <folding />
             </state>
           </provider>
@@ -103,8 +103,8 @@
         <option value="$PROJECT_DIR$/www/backend/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/www/frontend/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/www/frontend/models/TestModel.php" />
-        <option value="$PROJECT_DIR$/www/frontend/controllers/MainController.php" />
         <option value="$PROJECT_DIR$/www/frontend/views/main/main.php" />
+        <option value="$PROJECT_DIR$/www/frontend/controllers/MainController.php" />
       </list>
     </option>
   </component>
@@ -449,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/frontend/controllers/MainController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="421" selection-end="421" vertical-scroll-proportion="0.47065338" vertical-offset="0" max-vertical-offset="903">
+        <state line="25" column="8" selection-start="462" selection-end="462" vertical-scroll-proportion="0.47065338" vertical-offset="0" max-vertical-offset="903">
           <folding />
         </state>
       </provider>
